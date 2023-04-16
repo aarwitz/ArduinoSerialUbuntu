@@ -1,0 +1,4 @@
+/home/aaron/SerialCom/build/CMakeFiles/serial.dir
+/home/aaron/SerialCom/build/CMakeFiles/ArduinoSerial.dir
+/home/aaron/SerialCom/build/CMakeFiles/edit_cache.dir
+/home/aaron/SerialCom/build/CMakeFiles/rebuild_cache.dir

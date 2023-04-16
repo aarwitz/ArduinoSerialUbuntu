@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ArduinoSerial.dir/src/Arduino2File.cpp.o -o ArduinoSerial  libserial.a -lrt 
