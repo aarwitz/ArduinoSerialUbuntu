@@ -2,7 +2,7 @@
 
 Before running, plug in the Arduino to your Linux machine and upload the code in src/ArduinoCode.txt to your Arduino.
 
-## Build instructions
+### Build instructions
 
 $ git clone https://github.com/aarwitz/ArduinoSerialUbuntu.git
 
