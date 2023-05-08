@@ -17,4 +17,4 @@ add_library(serial ${serial_SRCS})
 target_link_libraries(serial rt)
 
 add_executable(ArduinoSerial src/Arduino2File.cpp)
-target_link_libraries(ArduinoSerial serial)
+target_link_libraries(ArduinoSerial serial server)
